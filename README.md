@@ -6,3 +6,4 @@ A collection of programs to display the workings of Pygame Library.
 <p>Pygame_tut3 imports the character sprites and permits animation of the character[move left, right and jump].</p>
 <p>Pygame_tut4 is basically an Object Oriented Programming approach of the game to increase efficiency.</p>
 <p>Pygame_tut5 introduces firing bullets from the character in the direction it faces.</p>
+<p>Pygame_tut6 introduces drawing another character but in a different way. Enroute to create a multiplayer game.</p>
